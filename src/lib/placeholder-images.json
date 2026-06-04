@@ -1,3 +1,28 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero",
+      "description": "Epic Free Fire battle scene",
+      "imageUrl": "https://picsum.photos/seed/zresports1/800/400",
+      "imageHint": "esports battle"
+    },
+    {
+      "id": "match-solo",
+      "description": "Solo Battle Royale match icon",
+      "imageUrl": "https://picsum.photos/seed/zrmatch1/400/200",
+      "imageHint": "gaming soldier"
+    },
+    {
+      "id": "match-cs",
+      "description": "Clash Squad 4v4 icon",
+      "imageUrl": "https://picsum.photos/seed/zrmatch2/400/200",
+      "imageHint": "team game"
+    },
+    {
+      "id": "match-lone",
+      "description": "Lone Wolf 1v1 icon",
+      "imageUrl": "https://picsum.photos/seed/zrmatch3/400/200",
+      "imageHint": "duel gaming"
+    }
+  ]
 }
